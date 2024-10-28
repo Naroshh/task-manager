@@ -1,0 +1,33 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.text-decoration-line-through {
+    text-decoration: line-through;
+    color: #6c757d;
+}
+/* styles.css */
+
+/* Add background color and spacing adjustments */
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.card {
+    border-radius: 0.5rem;
+}
+
+#taskList .card {
+    border: none;
+    background: #ffffff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#taskList .btn-group .btn {
+    font-size: 0.9rem;
+}
