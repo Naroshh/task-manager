@@ -1,0 +1,24 @@
+/* static/css/styles.css */
+.hero {
+    background-image: url('../imgs/background.jpg'); /* Adjust the path as necessary */
+    background-size: cover;
+    background-position: center;
+    height: 400px; /* Full height */
+}
+
+.mask {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black mask */
+    height: 100%; /* Full height */
+}
+.hero-section {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+
+.task-section, .view-tasks-section {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
